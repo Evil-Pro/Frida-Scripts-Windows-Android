@@ -1,4 +1,4 @@
-# FridaScripts
+# Frida Scripts for Windows & Android
 Some Script Of Frida For Android/Windows
 
 
